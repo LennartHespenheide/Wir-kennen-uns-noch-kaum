@@ -1,2 +1,9 @@
 # Wir-kennen-uns-noch-kaum
-Data for conceptual website
+
+Es steht geschrieben:
+
+Wir kennen uns
+nock kaum,
+aber ich denke,
+dass ich dich
+bereits vermisse.
